@@ -1,0 +1,15 @@
+def diena_vardos(nr):
+  if nr==1:
+    return 'pirmdiena'
+  elif nr==2:
+    return 'otrdiena'
+  elif nr==3:
+    return 'tresdiena'
+  elif nr==4:
+    return 'ceturtdiena'
+  elif nr==5:
+    return 'piektdiena'
+  elif nr==6:
+    return 'sestdiena'
+  elif nr==7:
+    return 'svetdiena'
